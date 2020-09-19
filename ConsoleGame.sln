@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGame", "ConsoleGame\ConsoleGame.csproj", "{50B6AD6D-4B69-4F82-AA22-10F812A875C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleGameMadLib", "ConsoleGameMadLib\ConsoleGameMadLib.csproj", "{B17407BE-EDB5-42F2-9932-F17479CADD47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50B6AD6D-4B69-4F82-AA22-10F812A875C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B6AD6D-4B69-4F82-AA22-10F812A875C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B6AD6D-4B69-4F82-AA22-10F812A875C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B6AD6D-4B69-4F82-AA22-10F812A875C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17407BE-EDB5-42F2-9932-F17479CADD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17407BE-EDB5-42F2-9932-F17479CADD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B17407BE-EDB5-42F2-9932-F17479CADD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17407BE-EDB5-42F2-9932-F17479CADD47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {693A26E4-C877-4765-BCB5-8BF1CCAAD858}
+	EndGlobalSection
+EndGlobal

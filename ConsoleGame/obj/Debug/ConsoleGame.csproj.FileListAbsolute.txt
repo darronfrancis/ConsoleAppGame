@@ -1,0 +1,7 @@
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe.config
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.exe
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ConsoleGame\ConsoleGame\bin\Debug\ConsoleGame.pdb
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csprojAssemblyReference.cache
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.exe
+C:\Users\Darron Francis\Desktop\ElevenFiftyProjects\ConsoleGame\ConsoleGame\obj\Debug\ConsoleGame.pdb
